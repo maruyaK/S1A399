@@ -4,6 +4,7 @@ body {
   line-height: 1.8;
   letter-spacing: .8px;
   color: #333;
+  background: url(../img/maruya.png) left top repeat;
 }
 
 a {
@@ -151,6 +152,10 @@ li {
 .main-visual-inner {
   padding: 0 40px;
 }
+
+/* .main-visual-inner img {
+  max-width:50%;
+} */
 
 .main-visual-title {
   font-size: 60px;
